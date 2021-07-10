@@ -7,8 +7,8 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace UpdateProject.Controllers
-{
-    [Authorize]
+{    
+ //    [Authorize]
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
